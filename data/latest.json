@@ -1,7 +1,14 @@
 {
-  "round": 0,
-  "date": "",
-  "numbers": [],
-  "bonusNumber": 0,
-  "updatedAt": ""
+  "round": 1227,
+  "date": "2026-06-06",
+  "numbers": [
+    1,
+    14,
+    16,
+    34,
+    41,
+    44
+  ],
+  "bonusNumber": 13,
+  "updatedAt": "2026-06-09T10:59:12+09:00"
 }
