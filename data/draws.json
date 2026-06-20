@@ -1,6 +1,6 @@
 {
-  "latestRound": 1228,
-  "updatedAt": "2026-06-14T00:03:15+09:00",
+  "latestRound": 1229,
+  "updatedAt": "2026-06-21T00:04:33+09:00",
   "draws": [
     {
       "round": 1,
@@ -15965,6 +15965,19 @@
         44
       ],
       "bonusNumber": 1
+    },
+    {
+      "round": 1229,
+      "date": "2026-06-20",
+      "numbers": [
+        12,
+        13,
+        29,
+        34,
+        37,
+        42
+      ],
+      "bonusNumber": 16
     }
   ]
 }
